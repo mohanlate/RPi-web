@@ -25,3 +25,9 @@ cd quick2wire-gpio-admin
 make
 sudo make install
 sudo adduser $USER gpio
+
+
+-------------------------------
+
+To start the server, type:
+npm start
